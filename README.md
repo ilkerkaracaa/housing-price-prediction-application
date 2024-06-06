@@ -10,7 +10,6 @@ This repository contains a housing price prediction application built with a Rea
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The Housing Price Prediction Application provides an interface for users to enter details about a property and choose a machine learning algorithm to predict the price of the property. The backend is equipped with multiple models, including XGBoost, Linear Regression, Random Forest, and Gradient Boosting.
