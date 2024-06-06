@@ -25,7 +25,6 @@ The Housing Price Prediction Application provides an interface for users to ente
 
 ### Frontend
 - React
-- Bootstrap
 
 ### Backend
 - Flask
@@ -91,7 +90,7 @@ housing-price-prediction/
 │   ├── public/
 │   └── package.json
 └── backend/
-    ├── app.py
+    ├── main.py
     ├── requirements.txt
     └── dataset_etiketlenmis_son.xlsx
 ```
@@ -100,7 +99,7 @@ housing-price-prediction/
 - `dataset.js`: Contains dataset mappings for categorical feature transformations.
 
 ### Backend
-- `app.py`: The Flask application with endpoints for model training and prediction.
+- `main.py`: The Flask application with endpoints for model training and prediction.
 - `requirements.txt`: Lists the Python dependencies for the backend.
 
 ## Contributing
